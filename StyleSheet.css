@@ -1,0 +1,20 @@
+﻿h2 {
+    color: red;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+    h2 span {
+        background-color: black;
+    }
+
+#radioButtonsDiv {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+.startButton {
+    font-size: 25px;
+}
